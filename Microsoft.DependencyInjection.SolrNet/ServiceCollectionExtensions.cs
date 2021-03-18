@@ -14,7 +14,7 @@ using SolrNet.Mapping.Validation;
 using SolrNet.Mapping.Validation.Rules;
 using SolrNet.Microsoft.DependencyInjection;
 using SolrNet.Schema;
-
+//YOUOUOUOUO
 namespace SolrNet
 {
     public static class ServiceCollectionExtensions
